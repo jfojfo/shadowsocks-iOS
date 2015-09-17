@@ -22,6 +22,3 @@
 [submodule "AFNetworking"]
 	path = AFNetworking
 	url = git@github.com:AFNetworking/AFNetworking.git
-[submodule "libsodium"]
-	path = libsodium
-	url = https://github.com/jedisct1/libsodium
